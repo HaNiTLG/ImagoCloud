@@ -1,0 +1,1 @@
+This is the Storage directory which should be connected with your EFS / NFS system so you can use the cloud function correctly.
